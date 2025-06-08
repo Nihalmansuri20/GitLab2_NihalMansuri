@@ -1,1 +1,1 @@
-print("Hello from GitHub Actions Lab 2!")
+print("Triggering GitHub Actions workflow now!")
